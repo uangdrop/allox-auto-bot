@@ -1,0 +1,7 @@
+requests>=2.31
+pytz>=2023.3
+colorama>=0.4.6
+eth-account>=0.10
+feedparser>=6.0
+# Optional: only needed if you use Telethon userbot backend
+# pip install telethon

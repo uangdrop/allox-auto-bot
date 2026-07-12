@@ -1,0 +1,9 @@
+# ⚠️  JANGAN COMMIT FILE INI — ini cuma template.
+# Copy ke `accounts.txt` dan isi dengan private key wallet lo (satu per baris).
+#
+# Format tiap baris: 0x + 64 karakter hex (awalan "0x" boleh, boleh juga nggak).
+# Baris yang mulai dengan "#" dan baris kosong di-skip.
+#
+# Contoh:
+# 0x0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
+# 0xabcdef0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab

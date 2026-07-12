@@ -1,0 +1,14 @@
+# ⚠️  JANGAN COMMIT FILE INI — ini cuma template.
+# Copy ke `proxy.txt` dan isi daftar proxy lo (satu per baris, opsional).
+# Bot cuma butuh proxy kalo lo pilih mode "1. Run with proxy" di menu pertama kali.
+#
+# Format yang didukung:
+#   http://user:password@ip:port
+#   https://user:password@ip:port
+#   http://ip:port
+#   user:password@ip:port              # tanpa scheme, dianggap http://
+#
+# Contoh:
+# http://user:pass@127.0.0.1:8080
+# https://1.2.3.4:443
+# 10.0.0.1:3128
